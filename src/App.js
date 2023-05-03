@@ -17,7 +17,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <header className="App-header">UNIT 4 FINAL ASSESSMENT</header>
+        <header className="App-header">UNIT 3 FINAL ASSESSMENT</header>
         <main>
           <Pictures
           circleIdx={this.state.circleIdx}
